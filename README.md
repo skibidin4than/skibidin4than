@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="n4than@parrot:~$ whoami" width="100%">
+  <img src="assets/banner.svg" alt="n4than@parrot:~$ whoami" width="65%">
 </p>
 
 <p align="center">
