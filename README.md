@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="n4than" width="100%"/>
-
-<br/>
-
 <img src="./assets/terminal.svg" alt="terminal" width="720"/>
 
 <br/><br/>
@@ -16,24 +12,24 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🚀 Featured projects
+## Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔍 <a href="https://github.com/skibidin4than/PromptProbe">PromptProbe</a></h3>
+      <h3><a href="https://github.com/skibidin4than/PromptProbe">PromptProbe</a></h3>
       <p>LLM prompt injection tester. 25 adversarial payloads, canary-based detection, JSON reports. Works with Ollama, OpenAI and any HTTP chatbot API.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🕵️ <a href="https://github.com/skibidin4than/SubTake">SubTake</a></h3>
+      <h3><a href="https://github.com/skibidin4than/SubTake">SubTake</a></h3>
       <p>Subdomain takeover checker. CNAME fingerprinting across 25 services, with crt.sh enumeration and JSON output.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🌐 <a href="https://skibidin4than.github.io">skibidin4than.github.io</a></h3>
+      <h3><a href="https://skibidin4than.github.io">skibidin4than.github.io</a></h3>
       <p>My personal website.</p>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     </td>
@@ -42,14 +38,14 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🐛 Bug bounty & CTF
+## Bug bounty & CTF
 
 - **Bug bounty** — hunting on HackerOne VDPs with **VulnHound**, my own scanner (headers, XSS, disclosure, CORS, JS secrets, redirect).
 - **WolvCTF 2026** — PWN, REV, WEB, CRYPTO, OSINT and forensics.
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🧰 Tech stack
+## Tech stack
 
 <div align="center">
 
@@ -59,20 +55,12 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 📊 Stats
+## Stats
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=skibidin4than&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skibidin4than&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
-
-</div>
-
-## 🐍 Contribution snake
-
-<div align="center">
-
-<img alt="snake" src="https://raw.githubusercontent.com/skibidin4than/skibidin4than/output/github-snake.svg"/>
 
 </div>
 
