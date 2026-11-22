@@ -84,7 +84,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-skibidin4than-181717?style=for-the-badge&logo=github)](https://github.com/skibidin4than)
-[![Website](https://img.shields.io/badge/Website-expsocial.biz.id-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://expsocial.biz.id)
 
 <br/>
 
