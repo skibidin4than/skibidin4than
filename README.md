@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,lua,html,css,git,linux,bash,github&theme=dark" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,git,linux,bash,github&theme=dark" alt="skills"/>
 
 </div>
 
@@ -60,7 +60,7 @@
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=skibidin4than&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skibidin4than&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skibidin4than&layout=compact&theme=tokyonight&hide_border=true&hide=Lua" alt="top langs"/>
 
 </div>
 
