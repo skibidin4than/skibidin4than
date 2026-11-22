@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=skibidin4than&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=skibidin4than&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skibidin4than&layout=compact&theme=tokyonight&hide_border=true&hide=Lua" alt="top langs"/>
 
 </div>
