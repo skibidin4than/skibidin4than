@@ -6,7 +6,7 @@
 .k2{animation:k2 16s steps(18,end) infinite}@keyframes k2{0%,19%{width:0}26%,94%{width:176px}100%{width:0}}
 .k3{animation:k3 16s steps(46,end) infinite}@keyframes k3{0%,28%{width:0}35%,94%{width:446px}100%{width:0}}
 .k4{animation:k4 16s steps(14,end) infinite}@keyframes k4{0%,36%{width:0}43%,94%{width:138px}100%{width:0}}
-.k5{animation:k5 16s steps(35,end) infinite}@keyframes k5{0%,44%{width:0}54%,94%{width:340px}100%{width:0}}
+.k5{animation:k5 16s steps(21,end) infinite}@keyframes k5{0%,44%{width:0}54%,94%{width:202px}100%{width:0}}
 .k6{animation:k6 16s steps(12,end) infinite}@keyframes k6{0%,56%{width:0}62%,94%{width:118px}100%{width:0}}
 .k7{animation:k7 16s steps(8,end) infinite}@keyframes k7{0%,63%{width:0}68%,94%{width:80px}100%{width:0}}
 .blink{animation:bl 1s steps(1) infinite}@keyframes bl{0%{opacity:1}50%{opacity:0}}
@@ -36,7 +36,7 @@
 <g clip-path="url(#c2)"><text x="30" y="150" font-family="'Courier New',monospace" font-size="16"><tspan fill="#3fb950">$ </tspan><tspan fill="#e6edf3">cat interests.txt</tspan></text></g>
 <g clip-path="url(#c3)"><text x="30" y="177" font-family="'Courier New',monospace" font-size="16"><tspan fill="#58a6ff">python | lua | bug-bounty | ctf | llm-security</tspan></text></g>
 <g clip-path="url(#c4)"><text x="30" y="204" font-family="'Courier New',monospace" font-size="16"><tspan fill="#3fb950">$ </tspan><tspan fill="#e6edf3">ls projects/</tspan></text></g>
-<g clip-path="url(#c5)"><text x="30" y="231" font-family="'Courier New',monospace" font-size="16"><tspan fill="#58a6ff">PromptProbe/ expsocial-hub/ SubTake/</tspan></text></g>
+<g clip-path="url(#c5)"><text x="30" y="231" font-family="'Courier New',monospace" font-size="16"><tspan fill="#58a6ff">PromptProbe/ SubTake/</tspan></text></g>
 <g clip-path="url(#c6)"><text x="30" y="258" font-family="'Courier New',monospace" font-size="16"><tspan fill="#3fb950">$ </tspan><tspan fill="#e6edf3">echo $VIBE</tspan></text></g>
 <g clip-path="url(#c7)"><text x="30" y="285" font-family="'Courier New',monospace" font-size="16"><tspan fill="#bc8cff">ship it.</tspan></text></g>
 <g><rect x="101" y="270" width="10" height="19" fill="#bc8cff" class="blink"/></g>
