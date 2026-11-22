@@ -1,20 +1,99 @@
-# Hi, I'm Nathan 👋
+<div align="center">
 
-Security researcher· CTF player · Tool builder from Malaysia.
+<img src="./assets/header.svg" alt="n4than" width="100%"/>
 
-## 🔥 What I'm building
+<br/>
 
-- 🔍 **[PromptProbe](https://github.com/skibidin4than/PromptProbe)** — LLM prompt injection tester. 25 adversarial payloads, canary-based detection, JSON reports. Works with Ollama, OpenAI and any HTTP chatbot API.
-- 🎮 **[ExpSocial Hub](https://expsocial.biz.id)** — Roblox script hub. Game scripts, shortlinks and a download gate.
-- 🕵️ **SubTake** — Subdomain takeover checker (25 service fingerprints).
+<img src="./assets/terminal.svg" alt="terminal" width="720"/>
 
-## 🐛 Bug bounty
+<br/><br/>
 
-Hunting on HackerOne VDPs with **VulnHound**, my own scanner (headers, XSS, disclosure, CORS, JS secrets, redirect). Currently on the DoD VDP.
+![Profile Views](https://komarev.com/ghpvc/?username=skibidin4than&label=VIEWS&color=1f6feb&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/skibidin4than?style=for-the-badge&logo=github&color=8957e5&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/skibidin4than/PromptProbe?style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117&label=STARS)
 
-## 🏆 CTF
+</div>
 
-WolvCTF 2026 player — PWN, REV, WEB, CRYPTO, OSINT and forensics.
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
+## 🚀 Featured projects
 
-*Open to collabs — fork a repo, open a PR, or ask a question in Discussions.*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 <a href="https://github.com/skibidin4than/PromptProbe">PromptProbe</a></h3>
+      <p>LLM prompt injection tester. 25 adversarial payloads, canary-based detection, JSON reports. Works with Ollama, OpenAI and any HTTP chatbot API.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/skibidin4than/expsocial-hub">expsocial-hub</a></h3>
+      <p>Roblox script hub with shortlinks. Throw Food, Anime Adventures, Tower of Hell and more — scripts, loaders and a download gate at expsocial.biz.id.</p>
+      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕵️ <a href="https://github.com/skibidin4than/SubTake">SubTake</a></h3>
+      <p>Subdomain takeover checker. CNAME fingerprinting across 25 services, with crt.sh enumeration and JSON output.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://skibidin4than.github.io">skibidin4than.github.io</a></h3>
+      <p>My personal website.</p>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 🐛 Bug bounty & CTF
+
+- **Bug bounty** — hunting on HackerOne VDPs with **VulnHound**, my own scanner (headers, XSS, disclosure, CORS, JS secrets, redirect).
+- **WolvCTF 2026** — PWN, REV, WEB, CRYPTO, OSINT and forensics.
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 🧰 Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,lua,html,css,git,linux,bash,github&theme=dark" alt="skills"/>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=skibidin4than&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skibidin4than&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+
+</div>
+
+## 🐍 Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skibidin4than/skibidin4than/output/github-snake-dark.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/skibidin4than/skibidin4than/output/github-snake.svg"/>
+</picture>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-skibidin4than-181717?style=for-the-badge&logo=github)](https://github.com/skibidin4than)
+[![YouTube](https://img.shields.io/badge/YouTube-exp_social_script-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TacoCats-m7i)
+[![Website](https://img.shields.io/badge/Website-expsocial.biz.id-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://expsocial.biz.id)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
