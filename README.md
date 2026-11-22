@@ -1,6 +1,6 @@
 # Hi, I'm Nathan 👋
 
-Security researcher · Roblox scripter · CTF player · Tool builder from Malaysia.
+Security researcher· CTF player · Tool builder from Malaysia.
 
 ## 🔥 What I'm building
 
