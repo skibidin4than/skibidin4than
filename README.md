@@ -26,18 +26,13 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/skibidin4than/expsocial-hub">expsocial-hub</a></h3>
-      <p>Roblox script hub with shortlinks. Throw Food, Anime Adventures, Tower of Hell and more — scripts, loaders and a download gate at expsocial.biz.id.</p>
-      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>🕵️ <a href="https://github.com/skibidin4than/SubTake">SubTake</a></h3>
       <p>Subdomain takeover checker. CNAME fingerprinting across 25 services, with crt.sh enumeration and JSON output.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>🌐 <a href="https://skibidin4than.github.io">skibidin4than.github.io</a></h3>
       <p>My personal website.</p>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -89,7 +84,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-skibidin4than-181717?style=for-the-badge&logo=github)](https://github.com/skibidin4than)
-[![YouTube](https://img.shields.io/badge/YouTube-exp_social_script-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TacoCats-m7i)
 [![Website](https://img.shields.io/badge/Website-expsocial.biz.id-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://expsocial.biz.id)
 
 <br/>
