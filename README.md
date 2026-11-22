@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=skibidin4than&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=skibidin4than&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skibidin4than&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
 
 </div>
@@ -72,10 +72,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skibidin4than/skibidin4than/output/github-snake-dark.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/skibidin4than/skibidin4than/output/github-snake.svg"/>
-</picture>
+<img alt="snake" src="https://raw.githubusercontent.com/skibidin4than/skibidin4than/output/github-snake.svg"/>
 
 </div>
 
