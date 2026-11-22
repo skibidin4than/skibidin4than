@@ -16,11 +16,5 @@ Hunting on HackerOne VDPs with **VulnHound**, my own scanner (headers, XSS, disc
 
 WolvCTF 2026 player — PWN, REV, WEB, CRYPTO, OSINT and forensics.
 
-## 🎥 Find me
-
-- YouTube: [exp social script](https://www.youtube.com/@TacoCats-m7i)
-- Website: [expsocial.biz.id](https://expsocial.biz.id)
-
----
 
 *Open to collabs — fork a repo, open a PR, or ask a question in Discussions.*
